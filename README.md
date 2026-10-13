@@ -13,6 +13,9 @@ A step-by-step guide, downloadable templates, and a growing library of **real, s
 
 Applying for a Humboldt is a very different exercise from a U.S.-style fellowship or faculty application: a 2-page CV with no publications, a separate "official model" publication list, a key-publications list with written justifications, and an online form that pulls parts of your proposal into character-limited boxes. Most applicants have never seen a finished one.
 
+Tip: You can switch between [Light and Dark mode](https://github.com/settings/appearance) in your GitHub profile settings for better readability. This repo has all figures/images included to be nicely viewed in either light or dark mode. 
+
+
 Inspired by community collections of [successful job and grant applications](https://www.ogrants.org/), this repo has three parts:
 
 | | What's in it | Where |
