@@ -276,10 +276,10 @@ See [**examples/README.md**](examples/README.md) for the full index by field, ye
 
 ## FAQs & Other Resources
 
-- 👉 [Official Humboldt FAQs](https://www.humboldt-foundation.de/en/apply/advice/advice-questions-and-answers)
-- 👉 [Humboldt Research Fellowship programme page](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
-- 👉 [EURAXESS Germany](https://www.euraxess.de/) — practical information for researchers moving to Germany (visas, housing, social security)
-- 👉 [Open Grants](https://www.ogrants.org/) — a broader collection of successful grant proposals
+- [Official Humboldt FAQs](https://www.humboldt-foundation.de/en/apply/advice/advice-questions-and-answers)
+- [Humboldt Research Fellowship programme page](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
+- [EURAXESS Germany](https://www.euraxess.de/) — practical information for researchers moving to Germany (visas, housing, social security)
+- [Open Grants](https://www.ogrants.org/) — a broader collection of successful grant proposals
 
 ---
 
@@ -306,4 +306,4 @@ This guide was created by **Andrew Schulz**, **Lawrence T. Smith**, and **Yarden
 
 ---
 
-*Good luck with your Humboldt application!* 🎓🇩🇪
+*Good luck with your Humboldt application!*
