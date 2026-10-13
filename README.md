@@ -5,7 +5,7 @@ A step-by-step guide, downloadable templates, and a growing library of **real, s
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 📌 Requirements here are compiled from the [official Humboldt Foundation website](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship). Rules, character limits, and forms change — **always check the official page before you submit.** The templates in this repo were last updated in November 2023.
+> 📌 Requirements here are compiled from the [official Humboldt Foundation website](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship). Rules, character limits, and forms change — **always check the official page before you submit.** The templates in this repo were last updated in November 2025.
 
 ---
 
