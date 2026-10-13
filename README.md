@@ -280,12 +280,6 @@ See [**examples/README.md**](examples/README.md) for the full index by field, ye
 
 ---
 
-## What Happens if I Get the Humboldt?
-
-*Coming soon* — practical notes on the award documents, starting the fellowship, language courses, and relocating to Germany. Fellows: contributions to this section are especially welcome.
-
----
-
 ## Contributing Your Materials
 
 We'd love to include your successful Humboldt materials — any field, any year, either track. Full instructions are in [**CONTRIBUTING.md**](CONTRIBUTING.md). In short:
@@ -301,7 +295,7 @@ Suggestions and corrections to the guide itself are welcome as [issues](../../is
 
 ## Credits & Contact
 
-This guide was created by **Andrew Schulz**, **Vani Sundaram**, and **Yarden Sharon**, with assistance from **Joey Burns** and **Ilona Jacobi**.
+This guide was created by **Andrew Schulz**, **Lawrence T. Smith**, and **Yarden Sharon** with assistance from **Joey Burns**.
 
 📧 Contact: **aschulz@is.mpg.de**
 
