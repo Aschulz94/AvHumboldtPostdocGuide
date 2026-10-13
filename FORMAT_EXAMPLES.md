@@ -1,76 +1,97 @@
-# Formatting Conventions — Derived from Real Example Documents
+# Formatting Conventions — Derived from the Template Files
 
-This supplements the main `README.md`. Rather than just linking the example files, this breaks down the **actual formatting patterns** used consistently across the two-page CV and publication list templates included in this repo — useful as a quick checklist when drafting your own.
-
----
-
-## Two-Page CV — Section Order
-
-Both example CVs in this repo follow the same structure. Use this as your skeleton:
-
-1. **Header** — name, degree, institution + address, email, phone
-2. **Education** — reverse chronological; include degree type, institution, dates, and **advisor name**
-3. **Research Experience** — reverse chronological; include advisor/PI for each position
-4. **Honors and Awards**
-5. **Grants** — numbered list; include funding body, project title, amount, your role (PI/Co-PI), and dates
-6. **Invited Presentations / Talks** — numbered, with venue and date
-7. **Teaching Experience**
-8. **Supervising Students** (undergrad/grad final projects, thesis students)
-9. **Reviewer roles** (journals/conferences)
-10. **Service / Leadership / Volunteering**
-
-**Explicitly excluded:** publications. They live in the separate publication list document and are not part of the 2-page CV count.
-
-**Formatting notes observed in both examples:**
-- Dates formatted **MM/DD/YYYY** or **Month YYYY**, not DD/MM/YYYY (per the main guide's reviewer-friendliness tip)
-- Positions/roles are left-aligned with the date range, institution name on the same or next line
-- Numbered lists used for Grants and Invited Talks so items can be referenced elsewhere (e.g., in the research statement)
+This supplements the main [`README.md`](README.md). Rather than just linking the templates, it breaks down the **formatting patterns actually used** in the files in [`templates/`](templates/) — useful as a checklist while drafting your own.
 
 ---
 
-## Complete Publication List — Conventions
+## Two-Page CV
 
-Both example publication lists (`Humboldt_ListOfPubs_Example.docx` style) use this section breakdown, in order:
+📄 [`templates/2pageCV_Example.pdf`](templates/2pageCV_Example.pdf)
 
-1. **Journal Publications (peer-reviewed)**
-2. **Submitted Journal Papers / Preprints** (arXiv, bioRxiv, "Submitted," "Under Review")
-3. **Peer-Reviewed Conference Proceedings**
-4. **Conference/Workshop Abstracts**
-5. *(Optional)* Book Chapters
+**Section order used in the template:**
 
-**Formatting rules used consistently:**
-- Entries are **reverse chronological within each section**
-- **Your own name is bolded** in every entry
-- **Corresponding author is marked with an asterisk (\*)** — with a footnote key ("\* = Corresponding author") at the end
-- Each entry includes full author list, year, title, venue/journal name, volume/issue/pages (or "Accepted," "Submitted," "Under Review" status where applicable)
-- A line at the bottom notes **"As of [Month Year]"** so reviewers know how current the list is
-- Per the official Humboldt rules (see main README): do **not** include unsubmitted work, and mark which entries derive from your dissertation
+1. **Header** — name and degree, phone, email, city/country, plus one line of links (research website, Google Scholar, LinkedIn, courses)
+2. **Education** — reverse chronological; degree + field, institution, location, year range
+3. **Experience** — reverse chronological; role, organization, year range, and one bullet describing the work (for research positions, name the PI/advisor and thesis title)
+4. **Awards**
+5. **Teaching**
+6. **Invited Talks**
+7. **Leadership and Service Activities**
+
+**Explicitly excluded:** publications. They live in the separate publication list and don't count toward the two pages.
+
+**Formatting notes:**
+- Role/degree on the left, **year range right-aligned** on the same line, institution on the next line
+- Dates as **year ranges** (`2018–2022`, `2022–Present`) — unambiguous for reviewers anywhere
+- One short bullet per position: what you did, not a list of duties
+
+**Optional sections** you may want depending on your career stage: Grants & Fellowships (funder, title, role, amount, dates), Supervised Students, Reviewing.
 
 ---
 
-## List of Key Publications — Format
+## Complete Publication List
 
-This is the part most people under-invest in. The example (`ListOfKeyPublications_Example.docx`) shows the expected format is **not just a citation** — each entry has two parts:
+📄 [`templates/Humboldt_ListOfPubs_Example.docx`](templates/Humboldt_ListOfPubs_Example.docx) · [official sample](https://www.humboldt-foundation.de/fileadmin/Bewerben/Allgemein/sample_list_of_publications.pdf)
 
-1. **Full citation** (authors, title, journal, volume, year, DOI link)
-2. **A 4–6 sentence paragraph** covering:
-   - What the paper found / demonstrated
-   - **Your specific contribution**, especially if you're not first author
-   - Why the methodology or approach matters
-   - How it connects to the **research you're proposing** in your Humboldt statement
+**Title line:** `Complete list of publications of <Name>, PhD`
 
-This paragraph is doing real work — it's your chance to show the reviewers (who may not be specialists in your subfield) why this publication qualifies you for the proposed project, not just that it exists.
+**Sections, in order (as in the template):**
 
-**Reminder from the official rules:** postdocs cite 1–3 key publications; experienced researchers cite 3–5. Surplus entries are removed without notice, so choose carefully — pick the ones that most directly build the case for your proposed research.
+1. Journal Publications with peer review process
+2. Submitted publications with peer review process (on pre-print servers)
+3. Submitted publications with peer review process
+4. Conference Publications with peer review process
+5. Accepted Conference Publications
+6. Book Chapters
+
+**Formatting rules:**
+- **Numbered, reverse chronological** within each section
+- Full author list in `Lastname, I.` format, then `"Title"`, journal/venue, volume/issue, `(Year)`
+- **Corresponding author marked with an asterisk (\*)**
+- Submitted works show status in place of volume/pages: `Submitted (2023)`, `Under Review (2023)`
+- Closing line: **`As of <Month Year>`** so reviewers know how current the list is
+
+**Required by the Foundation but easy to forget:** a note at the bottom indicating which publications **derive from your dissertation**. Do **not** include unsubmitted work.
+
+---
+
+## List of Key Publications
+
+📄 [`templates/ListOfKeyPublications_Example.docx`](templates/ListOfKeyPublications_Example.docx) · [official sample](https://www.humboldt-foundation.de/fileadmin/Bewerben/Allgemein/sample_list_of_key_publications.pdf)
+
+Each entry has **two parts**:
+
+1. **Full citation** — authors, title, journal, volume/issue/pages, year, DOI
+2. **A paragraph (~6–10 sentences in the template)** covering:
+   - The question and what the paper showed
+   - The methods, and why they matter
+   - **Your specific contribution** — especially if you're not first author
+   - **How it connects to the project you're proposing** (the template closes each paragraph by linking the paper to the proposed research or partnership model)
+
+The paragraph is doing real work: reviewers may not be specialists in your subfield, and this is where you show why *this* paper qualifies you for *this* project.
+
+**Count:** postdocs 1–3, experienced researchers 3–5. Surplus entries are removed without notice — pick the papers that most directly build the case for your proposal.
+
+---
+
+## Research Statement (LaTeX)
+
+📄 [`templates/research-statement-latex/main.tex`](templates/research-statement-latex/main.tex)
+
+- 10 pt `article`, 6.5 in × 9 in text block, superscript numeric citations (`natbib`) with tight bibliography spacing to save room
+- **Title page = online-form drafting space** (Title, Summary, Impact — each with its character limit in a comment). It is *not* part of the 5-page PDF.
+- **Pages 1–5:** Introduction → Project Significance → What Questions Are to Be Examined? (with a brief timeline) → Proposed Project Methodology (subsections per research question) → References
+- Built-in `\TODO{}` macro (red text) for drafting notes
+- Wrap figures (`wrapfig`) to fit a figure without losing much text space
 
 ---
 
 ## Quick Checklist Before You Submit
 
-- [ ] CV is exactly 2 pages, no publications included
-- [ ] CV dates use a Germany-reviewer-friendly format
-- [ ] Full publication list is reverse chronological, sectioned, your name bolded, corresponding author marked
-- [ ] Publication list has an "As of [date]" line
-- [ ] Key publications include a full citation **plus** a substantive paragraph tying it to your proposed project
-- [ ] Author order/completeness double- and triple-checked (inaccuracies can cause formal rejection per the Foundation's rules)
-- [ ] Research statement stays within ~5 pages including references, with clear delineation of independently-authored content vs. host-contributed content
+- [ ] CV is exactly 2 pages, no publications
+- [ ] CV dates are unambiguous (year ranges or written months)
+- [ ] Full publication list is sectioned, reverse chronological, corresponding authors marked (\*)
+- [ ] Publication list notes dissertation-derived papers and ends with "As of [Month Year]"
+- [ ] Each key publication has a full citation **plus** a paragraph tying it to your proposed project
+- [ ] Author order and completeness triple-checked (inaccuracies can cause formal rejection)
+- [ ] Research outline is ~5 pages including references, with host contributions attributed
